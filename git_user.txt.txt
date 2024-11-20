@@ -2,3 +2,7 @@ this is working
 
 
 This is a new change 
+
+
+This line is after the last commit named 'added one extra line of code'
+This commit will be named 'I like watermelon'
